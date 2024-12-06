@@ -28,6 +28,11 @@ import isimplify
 isimplify.showWindow()
 
 ```
+# Interactable window for word frequency analysis
+
+![Screenshot 2024-12-06 at 11 36 07 PM](https://github.com/user-attachments/assets/782dc6cd-89f1-4832-9539-a800908429fb)
+
+
 
 ## Usage
 # get word freq by reading pdf 
